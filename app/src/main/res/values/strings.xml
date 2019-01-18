@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">FaceTrackingWithRecording</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">FaceTracking With Recording</string>
+    <string name="permissions_denied_exit">Permissions denied, exit.</string>
 </resources>
